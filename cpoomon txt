@@ -1,0 +1,12 @@
+			</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b27a122 elementor-hidden-desktop elementor-hidden-tablet elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b27a122" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-76d3999" data-id="76d3999" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-736c365 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="736c365" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="./index.html">
+							<img width="1500" height="440" src="./images/magnolia-garden.png" class="attachment-full size-full" alt="" loading="eager" srcset="./images/magnolia-garden.png 1500w, https://raw.githubusercontent.com/MISTERNEGATIVE21/magnolia/main/images/magnoliagarden.png 300w, https://raw.githubusercontent.com/MISTERNEGATIVE21/magnolia/main/images/magnoliagarden.png 1024w,  https://raw.githubusercontent.com/MISTERNEGATIVE21/magnolia/main/images/magnoliagarden.png 768w" sizes="(max-width: 1500px) 100vw, 1500px" />								</a>
+															</div>
